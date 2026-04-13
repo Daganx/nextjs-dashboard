@@ -1,0 +1,1278 @@
+[00:00:01.495] Server  LOG      ✓ Ready in 1110ms
+[00:00:07.147] Server  LOG      ○ Compiling / ...
+[00:00:09.954] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:39.607] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:00.373] Server  ERROR    ⨯ ReferenceError: inter is not defined
+[00:13:01.050] Browser ERROR   uncaughtError: ReferenceError: inter is not defined
+[00:13:04.719] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:13:05.079] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:13:05.679] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:05.748] Server  LOG      ✓ Compiled in 21ms
+[00:14:12.046] Browser ERROR   ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts:4:1
+Parsing ecmascript source code failed
+  2 | import { }
+  3 |
+> 4 | export const inter = Inter({ subsets: ["latin"] });
+    | ^^^^^^
+  5 |
+
+Expected 'from', got 'export'
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/layout.tsx
+[00:15:07.140] Server  ERROR    ⨯ ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+Module not found: Can't resolve 'next/font/google/target.css'
+Missing weight for Lusitana. Available weights: 400, 700
+
+Debug info:
+- Execution of <ModuleAssetContext as AssetContext>::resolve_asset failed
+- Execution of resolve failed
+- Execution of resolve_internal failed
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- Missing weight for Lusitana. Available weights: 400, 700
+Error while looking up import map: Missing weight for Lusitana. Available weights: 400, 700
+
+Debug info:
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- Missing weight for Lusitana. Available weights: 400, 700
+
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:07.142] Server  ERROR    ⨯ ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+Module not found: Can't resolve 'next/font/google/target.css'
+Missing weight for Lusitana. Available weights: 400, 700
+
+Debug info:
+- Execution of <ModuleAssetContext as AssetContext>::resolve_asset failed
+- Execution of resolve failed
+- Execution of resolve_internal failed
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- Missing weight for Lusitana. Available weights: 400, 700
+Error while looking up import map: Missing weight for Lusitana. Available weights: 400, 700
+
+Debug info:
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- Missing weight for Lusitana. Available weights: 400, 700
+
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:07.144] Server  ERROR    ⨯ ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+Module not found: Can't resolve 'next/font/google/target.css'
+Missing weight for Lusitana. Available weights: 400, 700
+
+Debug info:
+- Execution of <ModuleAssetContext as AssetContext>::resolve_asset failed
+- Execution of resolve failed
+- Execution of resolve_internal failed
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- Missing weight for Lusitana. Available weights: 400, 700
+Error while looking up import map: Missing weight for Lusitana. Available weights: 400, 700
+
+Debug info:
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- Missing weight for Lusitana. Available weights: 400, 700
+
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:07.144] Server  ERROR    ⨯ ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+Module not found: Can't resolve 'next/font/google/target.css'
+Missing weight for Lusitana. Available weights: 400, 700
+
+Debug info:
+- Execution of <ModuleAssetContext as AssetContext>::resolve_asset failed
+- Execution of resolve failed
+- Execution of resolve_internal failed
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- Missing weight for Lusitana. Available weights: 400, 700
+Error while looking up import map: Missing weight for Lusitana. Available weights: 400, 700
+
+Debug info:
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- Missing weight for Lusitana. Available weights: 400, 700
+
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:07.147] Server  ERROR    ⨯ ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+Module not found: Can't resolve 'next/font/google/target.css'
+Missing weight for Lusitana. Available weights: 400, 700
+
+Debug info:
+- Execution of <ModuleAssetContext as AssetContext>::resolve_asset failed
+- Execution of resolve failed
+- Execution of resolve_internal failed
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- Missing weight for Lusitana. Available weights: 400, 700
+Error while looking up import map: Missing weight for Lusitana. Available weights: 400, 700
+
+Debug info:
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- Missing weight for Lusitana. Available weights: 400, 700
+
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:07.148] Server  ERROR    ⨯ ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+Module not found: Can't resolve 'next/font/google/target.css'
+Missing weight for Lusitana. Available weights: 400, 700
+
+Debug info:
+- Execution of <ModuleAssetContext as AssetContext>::resolve_asset failed
+- Execution of resolve failed
+- Execution of resolve_internal failed
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- Missing weight for Lusitana. Available weights: 400, 700
+Error while looking up import map: Missing weight for Lusitana. Available weights: 400, 700
+
+Debug info:
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- Missing weight for Lusitana. Available weights: 400, 700
+
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:07.152] Server  ERROR    ⨯ ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+Module not found: Can't resolve 'next/font/google/target.css'
+Missing weight for Lusitana. Available weights: 400, 700
+
+Debug info:
+- Execution of <ModuleAssetContext as AssetContext>::resolve_asset failed
+- Execution of resolve failed
+- Execution of resolve_internal failed
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- Missing weight for Lusitana. Available weights: 400, 700
+Error while looking up import map: Missing weight for Lusitana. Available weights: 400, 700
+
+Debug info:
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- Missing weight for Lusitana. Available weights: 400, 700
+
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:07.152] Server  ERROR    ⨯ ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+Module not found: Can't resolve 'next/font/google/target.css'
+Missing weight for Lusitana. Available weights: 400, 700
+
+Debug info:
+- Execution of <ModuleAssetContext as AssetContext>::resolve_asset failed
+- Execution of resolve failed
+- Execution of resolve_internal failed
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- Missing weight for Lusitana. Available weights: 400, 700
+Error while looking up import map: Missing weight for Lusitana. Available weights: 400, 700
+
+Debug info:
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- Missing weight for Lusitana. Available weights: 400, 700
+
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:07.153] Server  ERROR    ⨯ ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+Module not found: Can't resolve 'next/font/google/target.css'
+Missing weight for Lusitana. Available weights: 400, 700
+
+Debug info:
+- Execution of <ModuleAssetContext as AssetContext>::resolve_asset failed
+- Execution of resolve failed
+- Execution of resolve_internal failed
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- Missing weight for Lusitana. Available weights: 400, 700
+Error while looking up import map: Missing weight for Lusitana. Available weights: 400, 700
+
+Debug info:
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- Missing weight for Lusitana. Available weights: 400, 700
+
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:07.153] Server  ERROR    ⨯ ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+Module not found: Can't resolve 'next/font/google/target.css'
+Missing weight for Lusitana. Available weights: 400, 700
+
+Debug info:
+- Execution of <ModuleAssetContext as AssetContext>::resolve_asset failed
+- Execution of resolve failed
+- Execution of resolve_internal failed
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- Missing weight for Lusitana. Available weights: 400, 700
+Error while looking up import map: Missing weight for Lusitana. Available weights: 400, 700
+
+Debug info:
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- Missing weight for Lusitana. Available weights: 400, 700
+
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:07.159] Server  ERROR    ⨯ ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+Module not found: Can't resolve 'next/font/google/target.css'
+Missing weight for Lusitana. Available weights: 400, 700
+
+Debug info:
+- Execution of <ModuleAssetContext as AssetContext>::resolve_asset failed
+- Execution of resolve failed
+- Execution of resolve_internal failed
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- Missing weight for Lusitana. Available weights: 400, 700
+Error while looking up import map: Missing weight for Lusitana. Available weights: 400, 700
+
+Debug info:
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- Missing weight for Lusitana. Available weights: 400, 700
+
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:07.160] Server  ERROR    ⨯ ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+Module not found: Can't resolve 'next/font/google/target.css'
+Missing weight for Lusitana. Available weights: 400, 700
+
+Debug info:
+- Execution of <ModuleAssetContext as AssetContext>::resolve_asset failed
+- Execution of resolve failed
+- Execution of resolve_internal failed
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- Missing weight for Lusitana. Available weights: 400, 700
+Error while looking up import map: Missing weight for Lusitana. Available weights: 400, 700
+
+Debug info:
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- Missing weight for Lusitana. Available weights: 400, 700
+
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:08.051] Browser ERROR   ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+Module not found: Can't resolve 'next/font/google/target.css'
+Missing weight for Lusitana. Available weights: 400, 700
+
+Debug info:
+- Execution of <ModuleAssetContext as AssetContext>::resolve_asset failed
+- Execution of resolve failed
+- Execution of resolve_internal failed
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- Missing weight for Lusitana. Available weights: 400, 700
+Error while looking up import map: Missing weight for Lusitana. Available weights: 400, 700
+
+Debug info:
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- Missing weight for Lusitana. Available weights: 400, 700
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:15:50.535] Server  ERROR    ⨯ ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+Module not found: Can't resolve 'next/font/google/target.css'
+data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+
+Debug info:
+- Execution of <ModuleAssetContext as AssetContext>::resolve_asset failed
+- Execution of resolve failed
+- Execution of resolve_internal failed
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+    at arguments[0].weight
+         |                                                                    v
+       1 + {"path":"fonts.ts","import":"Lusitana","arguments":[{"weight":700.0}],"variableName":"lusitana"}
+         |                                                                    ^
+Error while looking up import map: data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+
+Debug info:
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+    at arguments[0].weight
+         |                                                                    v
+       1 + {"path":"fonts.ts","import":"Lusitana","arguments":[{"weight":700.0}],"variableName":"lusitana"}
+         |                                                                    ^
+
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:50.536] Server  ERROR    ⨯ ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+Module not found: Can't resolve 'next/font/google/target.css'
+data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+
+Debug info:
+- Execution of <ModuleAssetContext as AssetContext>::resolve_asset failed
+- Execution of resolve failed
+- Execution of resolve_internal failed
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+    at arguments[0].weight
+         |                                                                    v
+       1 + {"path":"fonts.ts","import":"Lusitana","arguments":[{"weight":700.0}],"variableName":"lusitana"}
+         |                                                                    ^
+Error while looking up import map: data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+
+Debug info:
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+    at arguments[0].weight
+         |                                                                    v
+       1 + {"path":"fonts.ts","import":"Lusitana","arguments":[{"weight":700.0}],"variableName":"lusitana"}
+         |                                                                    ^
+
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:50.538] Server  ERROR    ⨯ ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+Module not found: Can't resolve 'next/font/google/target.css'
+data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+
+Debug info:
+- Execution of <ModuleAssetContext as AssetContext>::resolve_asset failed
+- Execution of resolve failed
+- Execution of resolve_internal failed
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+    at arguments[0].weight
+         |                                                                    v
+       1 + {"path":"fonts.ts","import":"Lusitana","arguments":[{"weight":700.0}],"variableName":"lusitana"}
+         |                                                                    ^
+Error while looking up import map: data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+
+Debug info:
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+    at arguments[0].weight
+         |                                                                    v
+       1 + {"path":"fonts.ts","import":"Lusitana","arguments":[{"weight":700.0}],"variableName":"lusitana"}
+         |                                                                    ^
+
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:50.538] Server  ERROR    ⨯ ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+Module not found: Can't resolve 'next/font/google/target.css'
+data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+
+Debug info:
+- Execution of <ModuleAssetContext as AssetContext>::resolve_asset failed
+- Execution of resolve failed
+- Execution of resolve_internal failed
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+    at arguments[0].weight
+         |                                                                    v
+       1 + {"path":"fonts.ts","import":"Lusitana","arguments":[{"weight":700.0}],"variableName":"lusitana"}
+         |                                                                    ^
+Error while looking up import map: data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+
+Debug info:
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+    at arguments[0].weight
+         |                                                                    v
+       1 + {"path":"fonts.ts","import":"Lusitana","arguments":[{"weight":700.0}],"variableName":"lusitana"}
+         |                                                                    ^
+
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:50.539] Server  ERROR    ⨯ ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+Module not found: Can't resolve 'next/font/google/target.css'
+data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+
+Debug info:
+- Execution of <ModuleAssetContext as AssetContext>::resolve_asset failed
+- Execution of resolve failed
+- Execution of resolve_internal failed
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+    at arguments[0].weight
+         |                                                                    v
+       1 + {"path":"fonts.ts","import":"Lusitana","arguments":[{"weight":700.0}],"variableName":"lusitana"}
+         |                                                                    ^
+Error while looking up import map: data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+
+Debug info:
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+    at arguments[0].weight
+         |                                                                    v
+       1 + {"path":"fonts.ts","import":"Lusitana","arguments":[{"weight":700.0}],"variableName":"lusitana"}
+         |                                                                    ^
+
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:50.541] Server  ERROR    ⨯ ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+Module not found: Can't resolve 'next/font/google/target.css'
+data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+
+Debug info:
+- Execution of <ModuleAssetContext as AssetContext>::resolve_asset failed
+- Execution of resolve failed
+- Execution of resolve_internal failed
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+    at arguments[0].weight
+         |                                                                    v
+       1 + {"path":"fonts.ts","import":"Lusitana","arguments":[{"weight":700.0}],"variableName":"lusitana"}
+         |                                                                    ^
+Error while looking up import map: data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+
+Debug info:
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+    at arguments[0].weight
+         |                                                                    v
+       1 + {"path":"fonts.ts","import":"Lusitana","arguments":[{"weight":700.0}],"variableName":"lusitana"}
+         |                                                                    ^
+
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:50.549] Server  ERROR    ⨯ ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+Module not found: Can't resolve 'next/font/google/target.css'
+data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+
+Debug info:
+- Execution of <ModuleAssetContext as AssetContext>::resolve_asset failed
+- Execution of resolve failed
+- Execution of resolve_internal failed
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+    at arguments[0].weight
+         |                                                                    v
+       1 + {"path":"fonts.ts","import":"Lusitana","arguments":[{"weight":700.0}],"variableName":"lusitana"}
+         |                                                                    ^
+Error while looking up import map: data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+
+Debug info:
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+    at arguments[0].weight
+         |                                                                    v
+       1 + {"path":"fonts.ts","import":"Lusitana","arguments":[{"weight":700.0}],"variableName":"lusitana"}
+         |                                                                    ^
+
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:50.550] Server  ERROR    ⨯ ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+Module not found: Can't resolve 'next/font/google/target.css'
+data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+
+Debug info:
+- Execution of <ModuleAssetContext as AssetContext>::resolve_asset failed
+- Execution of resolve failed
+- Execution of resolve_internal failed
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+    at arguments[0].weight
+         |                                                                    v
+       1 + {"path":"fonts.ts","import":"Lusitana","arguments":[{"weight":700.0}],"variableName":"lusitana"}
+         |                                                                    ^
+Error while looking up import map: data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+
+Debug info:
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+    at arguments[0].weight
+         |                                                                    v
+       1 + {"path":"fonts.ts","import":"Lusitana","arguments":[{"weight":700.0}],"variableName":"lusitana"}
+         |                                                                    ^
+
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:50.551] Server  ERROR    ⨯ ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+Module not found: Can't resolve 'next/font/google/target.css'
+data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+
+Debug info:
+- Execution of <ModuleAssetContext as AssetContext>::resolve_asset failed
+- Execution of resolve failed
+- Execution of resolve_internal failed
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+    at arguments[0].weight
+         |                                                                    v
+       1 + {"path":"fonts.ts","import":"Lusitana","arguments":[{"weight":700.0}],"variableName":"lusitana"}
+         |                                                                    ^
+Error while looking up import map: data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+
+Debug info:
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+    at arguments[0].weight
+         |                                                                    v
+       1 + {"path":"fonts.ts","import":"Lusitana","arguments":[{"weight":700.0}],"variableName":"lusitana"}
+         |                                                                    ^
+
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:50.552] Server  ERROR    ⨯ ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+Module not found: Can't resolve 'next/font/google/target.css'
+data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+
+Debug info:
+- Execution of <ModuleAssetContext as AssetContext>::resolve_asset failed
+- Execution of resolve failed
+- Execution of resolve_internal failed
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+    at arguments[0].weight
+         |                                                                    v
+       1 + {"path":"fonts.ts","import":"Lusitana","arguments":[{"weight":700.0}],"variableName":"lusitana"}
+         |                                                                    ^
+Error while looking up import map: data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+
+Debug info:
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+    at arguments[0].weight
+         |                                                                    v
+       1 + {"path":"fonts.ts","import":"Lusitana","arguments":[{"weight":700.0}],"variableName":"lusitana"}
+         |                                                                    ^
+
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:50.559] Server  ERROR    ⨯ ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+Module not found: Can't resolve 'next/font/google/target.css'
+data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+
+Debug info:
+- Execution of <ModuleAssetContext as AssetContext>::resolve_asset failed
+- Execution of resolve failed
+- Execution of resolve_internal failed
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+    at arguments[0].weight
+         |                                                                    v
+       1 + {"path":"fonts.ts","import":"Lusitana","arguments":[{"weight":700.0}],"variableName":"lusitana"}
+         |                                                                    ^
+Error while looking up import map: data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+
+Debug info:
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+    at arguments[0].weight
+         |                                                                    v
+       1 + {"path":"fonts.ts","import":"Lusitana","arguments":[{"weight":700.0}],"variableName":"lusitana"}
+         |                                                                    ^
+
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:50.560] Server  ERROR    ⨯ ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+Module not found: Can't resolve 'next/font/google/target.css'
+data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+
+Debug info:
+- Execution of <ModuleAssetContext as AssetContext>::resolve_asset failed
+- Execution of resolve failed
+- Execution of resolve_internal failed
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+    at arguments[0].weight
+         |                                                                    v
+       1 + {"path":"fonts.ts","import":"Lusitana","arguments":[{"weight":700.0}],"variableName":"lusitana"}
+         |                                                                    ^
+Error while looking up import map: data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+
+Debug info:
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+    at arguments[0].weight
+         |                                                                    v
+       1 + {"path":"fonts.ts","import":"Lusitana","arguments":[{"weight":700.0}],"variableName":"lusitana"}
+         |                                                                    ^
+
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:15:51.054] Browser ERROR   ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+Module not found: Can't resolve 'next/font/google/target.css'
+data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+
+Debug info:
+- Execution of <ModuleAssetContext as AssetContext>::resolve_asset failed
+- Execution of resolve failed
+- Execution of resolve_internal failed
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+    at arguments[0].weight
+         |                                                                    v
+       1 + {"path":"fonts.ts","import":"Lusitana","arguments":[{"weight":700.0}],"variableName":"lusitana"}
+         |                                                                    ^
+Error while looking up import map: data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+
+Debug info:
+- Execution of NextFontGoogleReplacer::import_map_result failed
+- Execution of *get_font_css_properties failed
+- Execution of font_options_from_query_map failed
+- data did not match any variant of untagged enum OneOrManyStrings at line 1 column 68
+    at arguments[0].weight
+         |                                                                    v
+       1 + {"path":"fonts.ts","import":"Lusitana","arguments":[{"weight":700.0}],"variableName":"lusitana"}
+         |                                                                    ^
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/fonts.ts
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/layout.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+[00:16:18.961] Server  LOG      ✓ Compiled in 277ms
+[00:16:21.827] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:23.044] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="/Documents...">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <RootLayout>
+                        <html
+                          lang="en"
+-                         className={" maaljssqrb idc0_350"}
+                        >
+                  ...
+
+[00:16:55.731] Server  ERROR    ⨯ ./Documents/Updating/next.jsguide/nextjs-dashboard/app/page.tsx:7:1
+Parsing ecmascript source code failed
+   5 | import 
+   6 |
+>  7 | export default function Page() {
+     | ^^^^^^
+   8 |   return (
+   9 |     <main className="flex min-h-screen flex-col p-6">
+  10 |       <div className="flex h-20 shrink-0 items-end rounded-lg bg-blue-500 p-4 md:h-52">
+
+Expected 'from', got 'export'
+
+
+[00:16:55.766] Server  LOG      ✓ Compiled in 401ms
+[00:16:56.049] Browser ERROR   ./Documents/Updating/next.jsguide/nextjs-dashboard/app/page.tsx:7:1
+Parsing ecmascript source code failed
+   5 | import 
+   6 |
+>  7 | export default function Page() {
+     | ^^^^^^
+   8 |   return (
+   9 |     <main className="flex min-h-screen flex-col p-6">
+  10 |       <div className="flex h-20 shrink-0 items-end rounded-lg bg-blue-500 p-4 md:h-52">
+
+Expected 'from', got 'export'
+[00:16:59.243] Browser ERROR   ./Documents/Updating/next.jsguide/nextjs-dashboard/app/page.tsx:7:1
+Parsing ecmascript source code failed
+   5 | import 
+   6 |
+>  7 | export default function Page() {
+     | ^^^^^^
+   8 |   return (
+   9 |     <main className="flex min-h-screen flex-col p-6">
+  10 |       <div className="flex h-20 shrink-0 items-end rounded-lg bg-blue-500 p-4 md:h-52">
+
+Expected 'from', got 'export'
+[00:16:59.243] Browser ERROR   ./Documents/Updating/next.jsguide/nextjs-dashboard/app/page.tsx:7:1
+Parsing ecmascript source code failed
+   5 | import 
+   6 |
+>  7 | export default function Page() {
+     | ^^^^^^
+   8 |   return (
+   9 |     <main className="flex min-h-screen flex-col p-6">
+  10 |       <div className="flex h-20 shrink-0 items-end rounded-lg bg-blue-500 p-4 md:h-52">
+
+Expected 'from', got 'export'
+[00:17:00.485] Browser ERROR   uncaughtError: Error: ./Documents/Updating/next.jsguide/nextjs-dashboard/app/page.tsx:7:1
+Parsing ecmascript source code failed
+   5 | import 
+   6 |
+>  7 | export default function Page() {
+     | ^^^^^^
+   8 |   return (
+   9 |     <main className="flex min-h-screen flex-col p-6">
+  10 |       <div className="flex h-20 shrink-0 items-end rounded-lg bg-blue-500 p-4 md:h-52">
+
+Expected 'from', got 'export'
+
+
+[00:17:01.045] Browser ERROR   ./Documents/Updating/next.jsguide/nextjs-dashboard/app/page.tsx:7:1
+Parsing ecmascript source code failed
+   5 | import 
+   6 |
+>  7 | export default function Page() {
+     | ^^^^^^
+   8 |   return (
+   9 |     <main className="flex min-h-screen flex-col p-6">
+  10 |       <div className="flex h-20 shrink-0 items-end rounded-lg bg-blue-500 p-4 md:h-52">
+
+Expected 'from', got 'export'
+[00:17:01.045] Browser ERROR   ./Documents/Updating/next.jsguide/nextjs-dashboard/app/page.tsx:7:1
+Parsing ecmascript source code failed
+   5 | import 
+   6 |
+>  7 | export default function Page() {
+     | ^^^^^^
+   8 |   return (
+   9 |     <main className="flex min-h-screen flex-col p-6">
+  10 |       <div className="flex h-20 shrink-0 items-end rounded-lg bg-blue-500 p-4 md:h-52">
+
+Expected 'from', got 'export'
+[00:17:06.289] Server  LOG      ✓ Compiled in 140ms
+[00:17:08.476] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:42.673] Server  LOG      ✓ Compiled in 81ms
+[00:17:43.303] Server  ERROR    ⨯ ReferenceError: inter is not defined
+[00:17:44.089] Browser ERROR   uncaughtError: ReferenceError: inter is not defined
+[00:17:48.809] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:19.895] Server  LOG      ✓ Compiled in 413ms
+[00:26:19.902] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./Documents/Updating/next.jsguide/nextjs-dashboard/node_modules/.pnpm/next@16.0.10_react-dom@19.2.0_react@19.2.0__react@19.2.0/node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:26:21.515] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:33.042] Browser WARN    Image with src "/hero-desktop.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:26:38.929] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:27:03.136] Server  LOG      ✓ Compiled in 254ms
+[00:27:15.974] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:56.065] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:04.967] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:37.790] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:35:18.681] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:35:31.716] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:35:56.789] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:36:16.297] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:36:27.552] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:36:33.676] Server  LOG      ✓ Compiled in 72ms
+[00:36:47.249] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:37:12.474] Server  LOG      ✓ Compiled in 162ms
+[00:37:52.305] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/layout"
+[00:37:52.632] Server  ERROR    ⨯ Error: The default export is not a React Component in "/dashboard/customers/layout"
+[00:37:52.636] Server  LOG      ✓ Compiled in 1747ms
+[00:37:52.758] Server  LOG      ✓ Compiled in 42ms
+[00:37:54.561] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:44.158] Server  LOG      ✓ Compiled in 83ms
+[00:41:26.462] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:45:54.982] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:45:58.935] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:24.457] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:25.762] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:27.761] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:47:10.045] Browser ERROR   ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx:10:1
+Parsing ecmascript source code failed
+   8 | // Map of links to display in the side navigation.
+   9 | // Depending on the size of the application, this would be stored in a database.
+> 10 | const links = [
+     | ^^^^^
+  11 |   { name: 'Home', href: '/dashboard', icon: HomeIcon },
+  12 |   {
+  13 |     name: 'Invoices',
+
+Expected 'from', got 'const'
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/dashboard/layout.tsx
+[00:47:25.888] Server  LOG      ✓ Compiled in 112ms
+[00:49:59.207] Server  LOG      ✓ Compiled in 0ms
+[00:50:07.851] Server  LOG      ✓ Compiled in 92ms
+[00:50:32.583] Server  LOG      ✓ Compiled in 91ms
+[00:50:33.177] Browser ERROR   ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx:25:3
+Parsing ecmascript source code failed
+  23 | export default function NavLinks() {
+  24 |   const usePathname = 
+> 25 |   return (
+     |   ^^^^^^
+  26 |     <>
+  27 |       {links.map((link) => {
+  28 |         const LinkIcon = link.icon;
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/dashboard/layout.tsx
+[00:50:39.355] Server  LOG      ✓ Compiled in 95ms
+[00:50:40.045] Browser ERROR   ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx:24:9
+Parsing ecmascript source code failed
+  22 |
+  23 | export default function NavLinks() {
+> 24 |   const path;
+     |         ^^^^
+  25 |   return (
+  26 |     <>
+  27 |       {links.map((link) => {
+
+'const' declarations must be initialized
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/dashboard/layout.tsx
+[00:51:35.304] Server  LOG      ✓ Compiled in 91ms
+[00:52:14.657] Server  LOG      ✓ Compiled in 272ms
+[00:52:45.466] Server  LOG      ✓ Compiled in 261ms
+[00:52:46.045] Browser ERROR   ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx:36:15
+Parsing ecmascript source code failed
+  34 |             className={clsx(
+  35 |               "flex h-[48px] grow items-center justify-center gap-2 rounded-md bg-gray-50 p-3 text-sm font-medium hover:bg-sky-100 hover:text-blue-600 md:flex-none md:justify-start md:p-2 md:px-3"
+> 36 |               {},
+     |               ^
+  37 |             )}
+  38 |           >
+  39 |             <LinkIcon className="w-6" />
+
+Expected '</', got '{'
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/dashboard/layout.tsx
+[00:52:50.044] Browser ERROR   ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx:36:15
+Parsing ecmascript source code failed
+  34 |             className={clsx(
+  35 |               "flex h-[48px] grow items-center justify-center gap-2 rounded-md bg-gray-50 p-3 text-sm font-medium hover:bg-sky-100 hover:text-blue-600 md:flex-none md:justify-start md:p-2 md:px-3"
+> 36 |               {'bg-'},
+     |               ^
+  37 |             )}
+  38 |           >
+  39 |             <LinkIcon className="w-6" />
+
+Expected '</', got '{'
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/dashboard/layout.tsx
+[00:52:57.046] Browser ERROR   ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx:36:15
+Parsing ecmascript source code failed
+  34 |             className={clsx(
+  35 |               "flex h-[48px] grow items-center justify-center gap-2 rounded-md bg-gray-50 p-3 text-sm font-medium hover:bg-sky-100 hover:text-blue-600 md:flex-none md:justify-start md:p-2 md:px-3"
+> 36 |               {'bg-sky-100,'},
+     |               ^
+  37 |             )}
+  38 |           >
+  39 |             <LinkIcon className="w-6" />
+
+Expected '</', got '{'
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/dashboard/layout.tsx
+[00:53:06.045] Browser ERROR   ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx:36:15
+Parsing ecmascript source code failed
+  34 |             className={clsx(
+  35 |               "flex h-[48px] grow items-center justify-center gap-2 rounded-md bg-gray-50 p-3 text-sm font-medium hover:bg-sky-100 hover:text-blue-600 md:flex-none md:justify-start md:p-2 md:px-3"
+> 36 |               {'bg-sky-100, text-blue-500'},
+     |               ^
+  37 |             )}
+  38 |           >
+  39 |             <LinkIcon className="w-6" />
+
+Expected '</', got '{'
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/dashboard/layout.tsx
+[00:53:09.046] Browser ERROR   ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx:36:15
+Parsing ecmascript source code failed
+  34 |             className={clsx(
+  35 |               "flex h-[48px] grow items-center justify-center gap-2 rounded-md bg-gray-50 p-3 text-sm font-medium hover:bg-sky-100 hover:text-blue-600 md:flex-none md:justify-start md:p-2 md:px-3"
+> 36 |               {'bg-sky-100, text-blue-500,'},
+     |               ^
+  37 |             )}
+  38 |           >
+  39 |             <LinkIcon className="w-6" />
+
+Expected '</', got '{'
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/dashboard/layout.tsx
+[00:53:20.116] Browser ERROR   ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx:36:15
+Parsing ecmascript source code failed
+  34 |             className={clsx(
+  35 |               "flex h-[48px] grow items-center justify-center gap-2 rounded-md bg-gray-50 p-3 text-sm font-medium hover:bg-sky-100 hover:text-blue-600 md:flex-none md:justify-start md:p-2 md:px-3"
+> 36 |               {'bg-sky-100, text-blue-500' : pathname },
+     |               ^
+  37 |             )}
+  38 |           >
+  39 |             <LinkIcon className="w-6" />
+
+Expected '</', got '{'
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/dashboard/layout.tsx
+[00:53:26.219] Browser ERROR   ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx:36:15
+Parsing ecmascript source code failed
+  34 |             className={clsx(
+  35 |               "flex h-[48px] grow items-center justify-center gap-2 rounded-md bg-gray-50 p-3 text-sm font-medium hover:bg-sky-100 hover:text-blue-600 md:flex-none md:justify-start md:p-2 md:px-3"
+> 36 |               {'bg-sky-100, text-blue-500' : pathname === link.href},
+     |               ^
+  37 |             )}
+  38 |           >
+  39 |             <LinkIcon className="w-6" />
+
+Expected '</', got '{'
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/dashboard/layout.tsx
+[00:53:33.045] Browser ERROR   ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx:36:15
+Parsing ecmascript source code failed
+  34 |             className={clsx(
+  35 |               "flex h-[48px] grow items-center justify-center gap-2 rounded-md bg-gray-50 p-3 text-sm font-medium hover:bg-sky-100 hover:text-blue-600 md:flex-none md:justify-start md:p-2 md:px-3"
+> 36 |               {'bg-sky-100, text-blue-500' : pathname === link.href,},
+     |               ^
+  37 |             )}
+  38 |           >
+  39 |             <LinkIcon className="w-6" />
+
+Expected '</', got '{'
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/dashboard/layout.tsx
+[00:53:46.045] Browser ERROR   ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx:36:15
+Parsing ecmascript source code failed
+  34 |             className={clsx(
+  35 |               "flex h-[48px] grow items-center justify-center gap-2 rounded-md bg-gray-50 p-3 text-sm font-medium hover:bg-sky-100 hover:text-blue-600 md:flex-none md:justify-start md:p-2 md:px-3"
+> 36 |               {'bg-sky-100, text-blue-500' : pathname === link.href,}
+     |               ^
+  37 |             )}
+  38 |           >
+  39 |             <LinkIcon className="w-6" />
+
+Expected '</', got '{'
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/dashboard/layout.tsx
+[00:53:55.050] Browser ERROR   ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx:36:15
+Parsing ecmascript source code failed
+  34 |             className={clsx(
+  35 |               "flex h-[48px] grow items-center justify-center gap-2 rounded-md bg-gray-50 p-3 text-sm font-medium hover:bg-sky-100 hover:text-blue-600 md:flex-none md:justify-start md:p-2 md:px-3"
+> 36 |               {'bg-sky-100, text-blue-500' : pathname === link.href,},
+     |               ^
+  37 |             )}
+  38 |           >
+  39 |             <LinkIcon className="w-6" />
+
+Expected '</', got '{'
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/dashboard/layout.tsx
+[00:54:01.045] Browser ERROR   ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx:36:15
+Parsing ecmascript source code failed
+  34 |             className={clsx(
+  35 |               "flex h-[48px] grow items-center justify-center gap-2 rounded-md bg-gray-50 p-3 text-sm font-medium hover:bg-sky-100 hover:text-blue-600 md:flex-none md:justify-start md:p-2 md:px-3"
+> 36 |               {'bg-sky-100, text-blue-500' : pathname === link.href,},
+     |               ^
+  37 |             )}
+  38 |           >
+  39 |             <LinkIcon className="w-6" />
+
+Expected '</', got '{'
+
+Import trace:
+  Server Component:
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/nav-links.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx
+    ./Documents/Updating/next.jsguide/nextjs-dashboard/app/dashboard/layout.tsx
+[00:54:07.953] Server  LOG      ✓ Compiled in 133ms
