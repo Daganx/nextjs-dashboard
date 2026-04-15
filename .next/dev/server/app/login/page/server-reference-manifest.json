@@ -1,0 +1,20 @@
+{
+  "node": {
+    "605b126694e05d973d7523cc2a2342db3566c7666a": {
+      "workers": {
+        "app/login/page": {
+          "moduleId": "[project]/Documents/Updating/next.jsguide/nextjs-dashboard/.next-internal/server/app/login/page/actions.js { ACTIONS_MODULE0 => \"[project]/Documents/Updating/next.jsguide/nextjs-dashboard/app/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "authenticate",
+          "filename": "Documents/Updating/next.jsguide/nextjs-dashboard/app/lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/login/page": "action-browser"
+      },
+      "exportedName": "authenticate",
+      "filename": "Documents/Updating/next.jsguide/nextjs-dashboard/app/lib/actions.ts"
+    }
+  },
+  "edge": {}
+}

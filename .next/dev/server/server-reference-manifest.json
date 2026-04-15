@@ -1,5 +1,88 @@
 {
-  "node": {},
+  "node": {
+    "00930634739fa904b4e032079c4232037eb5d4772e": {
+      "workers": {
+        "app/dashboard/(overview)/page": {
+          "moduleId": "[project]/Documents/Updating/next.jsguide/nextjs-dashboard/.next-internal/server/app/dashboard/(overview)/page/actions.js { ACTIONS_MODULE0 => \"[project]/Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "$$RSC_SERVER_ACTION_0",
+          "filename": "Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx"
+        },
+        "app/dashboard/invoices/page": {
+          "moduleId": "[project]/Documents/Updating/next.jsguide/nextjs-dashboard/.next-internal/server/app/dashboard/invoices/page/actions.js { ACTIONS_MODULE0 => \"[project]/Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Documents/Updating/next.jsguide/nextjs-dashboard/app/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "$$RSC_SERVER_ACTION_0",
+          "filename": "Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx"
+        }
+      },
+      "layer": {
+        "app/dashboard/(overview)/page": "rsc",
+        "app/dashboard/invoices/page": "rsc"
+      },
+      "filename": "Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx",
+      "exportedName": "$$RSC_SERVER_ACTION_0"
+    },
+    "402fd9116bda50c9e4984b59126270841068b0b686": {
+      "workers": {
+        "app/dashboard/invoices/page": {
+          "moduleId": "[project]/Documents/Updating/next.jsguide/nextjs-dashboard/.next-internal/server/app/dashboard/invoices/page/actions.js { ACTIONS_MODULE0 => \"[project]/Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Documents/Updating/next.jsguide/nextjs-dashboard/app/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "deleteInvoice",
+          "filename": "Documents/Updating/next.jsguide/nextjs-dashboard/app/lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/invoices/page": "rsc"
+      },
+      "filename": "Documents/Updating/next.jsguide/nextjs-dashboard/app/lib/actions.ts",
+      "exportedName": "deleteInvoice"
+    },
+    "40e4e75377f39d5c520371575235d91b21bdb52fda": {
+      "workers": {
+        "app/dashboard/invoices/page": {
+          "moduleId": "[project]/Documents/Updating/next.jsguide/nextjs-dashboard/.next-internal/server/app/dashboard/invoices/page/actions.js { ACTIONS_MODULE0 => \"[project]/Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Documents/Updating/next.jsguide/nextjs-dashboard/app/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createInvoice",
+          "filename": "Documents/Updating/next.jsguide/nextjs-dashboard/app/lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/invoices/page": "rsc"
+      },
+      "filename": "Documents/Updating/next.jsguide/nextjs-dashboard/app/lib/actions.ts",
+      "exportedName": "createInvoice"
+    },
+    "603292d52711566d7b20c8b6b2d9315bb1e2fad289": {
+      "workers": {
+        "app/dashboard/invoices/page": {
+          "moduleId": "[project]/Documents/Updating/next.jsguide/nextjs-dashboard/.next-internal/server/app/dashboard/invoices/page/actions.js { ACTIONS_MODULE0 => \"[project]/Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Documents/Updating/next.jsguide/nextjs-dashboard/app/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "updateInvoice",
+          "filename": "Documents/Updating/next.jsguide/nextjs-dashboard/app/lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/invoices/page": "rsc"
+      },
+      "filename": "Documents/Updating/next.jsguide/nextjs-dashboard/app/lib/actions.ts",
+      "exportedName": "updateInvoice"
+    },
+    "605b126694e05d973d7523cc2a2342db3566c7666a": {
+      "workers": {
+        "app/dashboard/invoices/page": {
+          "moduleId": "[project]/Documents/Updating/next.jsguide/nextjs-dashboard/.next-internal/server/app/dashboard/invoices/page/actions.js { ACTIONS_MODULE0 => \"[project]/Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Documents/Updating/next.jsguide/nextjs-dashboard/app/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "authenticate",
+          "filename": "Documents/Updating/next.jsguide/nextjs-dashboard/app/lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/invoices/page": "rsc"
+      },
+      "filename": "Documents/Updating/next.jsguide/nextjs-dashboard/app/lib/actions.ts",
+      "exportedName": "authenticate"
+    }
+  },
   "edge": {},
   "encryptionKey": "CBg2eTVV4FZ/UKnwLVd36RJLMd0rtTWmQ1ecW2+5juw="
 }

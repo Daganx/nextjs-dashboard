@@ -1,0 +1,20 @@
+{
+  "node": {
+    "00930634739fa904b4e032079c4232037eb5d4772e": {
+      "workers": {
+        "app/dashboard/(overview)/page": {
+          "moduleId": "[project]/Documents/Updating/next.jsguide/nextjs-dashboard/.next-internal/server/app/dashboard/(overview)/page/actions.js { ACTIONS_MODULE0 => \"[project]/Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "$$RSC_SERVER_ACTION_0",
+          "filename": "Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx"
+        }
+      },
+      "layer": {
+        "app/dashboard/(overview)/page": "rsc"
+      },
+      "exportedName": "$$RSC_SERVER_ACTION_0",
+      "filename": "Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx"
+    }
+  },
+  "edge": {}
+}

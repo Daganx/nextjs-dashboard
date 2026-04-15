@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/macbook/Documents/Updating/next.jsguide/nextjs-dashboard/app/dashboard/loading.tsx"],"sourcesContent":["import DashboardSkeleton from \"../ui/skeletons\";\n\nexport default function Loading() {\n  return <div>Loading...</div>;\n}\n"],"names":[],"mappings":";;;;;;AAEe,SAAS;IACtB,qBAAO,ibAAC;kBAAI;;;;;;AACd"}}]
+}

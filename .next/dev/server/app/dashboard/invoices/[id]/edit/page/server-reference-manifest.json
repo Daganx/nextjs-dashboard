@@ -1,0 +1,35 @@
+{
+  "node": {
+    "00930634739fa904b4e032079c4232037eb5d4772e": {
+      "workers": {
+        "app/dashboard/invoices/[id]/edit/page": {
+          "moduleId": "[project]/Documents/Updating/next.jsguide/nextjs-dashboard/.next-internal/server/app/dashboard/invoices/[id]/edit/page/actions.js { ACTIONS_MODULE0 => \"[project]/Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Documents/Updating/next.jsguide/nextjs-dashboard/app/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "$$RSC_SERVER_ACTION_0",
+          "filename": "Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx"
+        }
+      },
+      "layer": {
+        "app/dashboard/invoices/[id]/edit/page": "rsc"
+      },
+      "exportedName": "$$RSC_SERVER_ACTION_0",
+      "filename": "Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx"
+    },
+    "603292d52711566d7b20c8b6b2d9315bb1e2fad289": {
+      "workers": {
+        "app/dashboard/invoices/[id]/edit/page": {
+          "moduleId": "[project]/Documents/Updating/next.jsguide/nextjs-dashboard/.next-internal/server/app/dashboard/invoices/[id]/edit/page/actions.js { ACTIONS_MODULE0 => \"[project]/Documents/Updating/next.jsguide/nextjs-dashboard/app/ui/dashboard/sidenav.tsx [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/Documents/Updating/next.jsguide/nextjs-dashboard/app/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "updateInvoice",
+          "filename": "Documents/Updating/next.jsguide/nextjs-dashboard/app/lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/dashboard/invoices/[id]/edit/page": "action-browser"
+      },
+      "exportedName": "updateInvoice",
+      "filename": "Documents/Updating/next.jsguide/nextjs-dashboard/app/lib/actions.ts"
+    }
+  },
+  "edge": {}
+}
